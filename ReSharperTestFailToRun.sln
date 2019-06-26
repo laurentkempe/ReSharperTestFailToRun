@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReSharperTestFailToRun", "ReSharperTestFailToRun\ReSharperTestFailToRun.csproj", "{748C6273-1CE6-4570-BE59-1B06581127C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReSharperTestFailToRun.Unit.Tests", "ReSharperTestFailToRun.Unit.Tests\ReSharperTestFailToRun.Unit.Tests.csproj", "{D0326F53-56A4-4C3A-90B8-A39FD2C2DED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{748C6273-1CE6-4570-BE59-1B06581127C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748C6273-1CE6-4570-BE59-1B06581127C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748C6273-1CE6-4570-BE59-1B06581127C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748C6273-1CE6-4570-BE59-1B06581127C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0326F53-56A4-4C3A-90B8-A39FD2C2DED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0326F53-56A4-4C3A-90B8-A39FD2C2DED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0326F53-56A4-4C3A-90B8-A39FD2C2DED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0326F53-56A4-4C3A-90B8-A39FD2C2DED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70A6888A-A3E5-4B07-AC15-8F8048BB9852}
+	EndGlobalSection
+EndGlobal
